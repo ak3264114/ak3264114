@@ -80,7 +80,7 @@ If you want, I can add **repository cards** for each project.
 
 ### 🔥 Contribution Streak  
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=ak3264114&theme=tokyonight" />
+  <img height="180" src="https://streak-stats.demolab.com?user=ak3264114&theme=tokyonight" />
 </p>
 
 ---
